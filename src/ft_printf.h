@@ -17,8 +17,6 @@
 # include <string.h>
 # include <stdarg.h>
 
-# include <stdio.h>
-
 # define NSTR "(null)"
 # define MAXINT 2147483647
 # define MININT -2147483648
